@@ -1,0 +1,30 @@
+/*
+            *Creando Estilo de el primer y segundo div del documento
+            */
+            .divClass h1{
+                color: red;
+            }
+            /*
+            *Creando identificador de el tercer div del documento
+            */
+            #thirdDiv {
+                width: 500px;
+                height: 600px;
+                background-color: blue;
+                padding: 50px;
+                border: solid 5px;
+                border-color: green;
+            }
+            /*
+            * Creando a la etiquete IMG el ancho
+            */
+            img {
+                width: 400px;
+            }
+            /*
+            * Al identificador span crea el margen y el tamaño a la etiqueta span
+            */
+            #spanId {
+                font-size: 18px;
+                margin: 50px;
+            }
