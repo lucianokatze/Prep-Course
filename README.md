@@ -34,3 +34,9 @@ Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSII.t
 y así.
 
 > No todos los homeworks tienen tests, está detallado en la descripción de cada uno.
+
+# Notas del alumno
+
+A fin de ver cuales son mis estudios complementarios detras de este homework puse a disposición en mi [blog personal](https://ckdyd.net/category/portfolio/henry/) bajo la sub categoria Henry
+
+![Luciano Logo](https://ckdyd.net/wp-content/uploads/2019/11/logo.png)
