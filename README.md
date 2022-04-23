@@ -39,4 +39,6 @@ y así.
 
 A fin de ver cuales son mis estudios complementarios detras de este homework puse a disposición en mi [blog personal](https://ckdyd.net/category/portfolio/henry/) bajo la sub categoria Henry
 
+Por otra parte cree una wiki donde se pueden ver los conocimientos que voy adquiriendo [Wiki en Github](https://github.com/lucianokatze/Prep-Course/wiki)
+
 ![Luciano Logo](https://ckdyd.net/wp-content/uploads/2019/11/logo.png)
